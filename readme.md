@@ -21,7 +21,7 @@ python3 death_counter.pyw
 ```
 ### Manually Windows
 ```
-python3 -m venv .venv
+python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
 python death_counter.pyw
