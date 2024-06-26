@@ -1,0 +1,7 @@
+# Not necessary files
+config.json
+
+# Directorys
+dist/
+build/
+.venv
